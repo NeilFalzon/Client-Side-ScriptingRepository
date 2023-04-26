@@ -1,20 +1,23 @@
 {
-"properties":[
-  {
-    "id": 1,
-    "type": "House of Character",
-    "details": "This house of character is ucked away in an alley.................",
-    "price": 500000,
-    "town": "Paola",
-    "finished": "false"
-  },
-  {
-    "id": 2,
-    "type": "Apartment",
-    "details": "This apartment is finished and fully furnished.................",
-    "price": 250000,
-    "town": "Tarxien",
-    "finished": "true"
-  }
-]
+	"cars": [{
+			"id": 1,
+			"make": "Volvo",
+			"model": "XC40",
+			"price": 20000,
+			"fuelType": "Diesel",
+			"colour": "Grey",
+			"mileage": 55000,
+			"manual": "true"
+		},
+		{
+			"id": 2,
+			"make": "BMW",
+			"model": "Series 1",
+			"price": 15000,
+			"fuelType": "Petrol",
+			"colour": "White",
+			"mileage": 85000,
+			"manual": "false"
+		}
+	]
 }
