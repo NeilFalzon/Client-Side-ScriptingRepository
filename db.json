@@ -2,7 +2,7 @@
     "pizza": [
         {
             "id": 1,
-            "title": "Frozen",
+            "title": "Margherita",
             "genre": "Animation",
             "price": "7.99",
             "runtime": "102 mins",
