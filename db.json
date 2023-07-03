@@ -1,8 +1,8 @@
 {
-    "MadeInHeaven": [
+    "Cinema": [
         {
             "id": 1,
-            "title": "Margherita",
+            "title": "Oppenheimer",
             "genre": "Animation",
             "price": "7.99",
             "runtime": "102 mins",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "title": "Capricosa",
+            "title": "Barbie",
             "genre": "Fantasy",
             "price": "15.99",
             "runtime": "180 mins",
